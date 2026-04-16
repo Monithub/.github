@@ -35,14 +35,14 @@ Operational data is often scattered across dashboards, logs, traces, container m
 
 ### Monithub Platform
 
-시스템, trace, log, container 관측을 자연스럽게 이어 문제를 찾는 시간을 줄이는 통합 운영 화면입니다.
+시스템, trace, log, metric 관측을 자연스럽게 이어 문제를 찾는 시간을 줄이는 통합 운영 화면입니다.
 
-An integrated operations workspace that connects system, trace, log, and container observability so teams can narrow down problems faster.
+An integrated operations workspace that connects system, trace, log, and metric observability so teams can narrow down problems faster.
 
 - 전체 시스템 상태를 한눈에 파악 / Understand overall system health at a glance
 - 느린 요청의 trace 흐름 추적 / Trace slow requests across services
 - 장애 로그를 빠르게 좁혀 확인 / Filter and inspect incident logs quickly
-- 컨테이너 리소스 이상 징후 확인 / Detect abnormal container resource patterns
+- 리소스 이상 징후 확인 / Detect abnormal container resource patterns
 - 팀 기준에 맞춘 패널 편집과 시각화 구성 / Customize panels and visualizations for each team's workflow
 
 ### Monithub Gateway / SDK
