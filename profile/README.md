@@ -26,6 +26,11 @@ Monithub(모닛허브)는 LLM, 애플리케이션, 인프라의 상태를 통합
 
 ## 제품
 
+| Platform | Gateway / SDK | Sentinel |
+| --- | --- | --- |
+| <img src="https://monithub.org/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.org/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.org/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
+| 시스템, metric, log, trace를 한 화면에서 파악 | AI/API 요청 수, 오류율, 지연 시간, 토큰 사용량 모니터링 | metric 변화와 이상 징후를 빠르게 탐지 |
+
 ### Monithub Platform
 
 Monithub Platform은 metric, trace, log 관측을 자연스럽게 이어 문제를 찾는 시간을 줄이는 통합 운영 화면입니다.
@@ -101,6 +106,11 @@ Monithub is an AI observability platform that unifies monitoring across LLMs, ap
 Operational data is often scattered across multiple systems. When incidents or performance issues happen, teams have to move between dashboards, metrics, logs, traces, and AI request flows to understand what went wrong. Monithub connects those signals into one decision flow so operators can understand issues faster and respond with more confidence.
 
 ## Products
+
+| Platform | Gateway / SDK | Sentinel |
+| --- | --- | --- |
+| <img src="https://monithub.org/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.org/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.org/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
+| View system state, metrics, logs, and traces in one place | Monitor AI request volume, error rate, latency, and token usage | Detect metric changes and anomaly signals early |
 
 ### Monithub Platform
 
