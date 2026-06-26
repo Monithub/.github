@@ -175,5 +175,5 @@ Monithub supports multiple deployment models depending on each team's infrastruc
 For product introductions, demos, PoCs, technical discussions, investment, or partnership inquiries, feel free to contact us.
 
 - Website: [monithub.org](https://monithub.org)
-- General inquiry: [supprtmonithub@gmail.com](mailto:supprtmonithub@gmail.com)
+- General inquiry: [supportmonithub@gmail.com](mailto:supprtmonithub@gmail.com)
 - Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
