@@ -15,7 +15,7 @@
   ·
   <a href="https://monithub.org/pricing.html">Pricing</a>
   ·
-  <a href="mailto:supprtmonithub@gmail.com">Contact</a>
+  <a href="mailto:supportmonithub@gmail.com">Contact</a>
 </p>
 
 ## 문제를 찾는 시간은 줄이고, 운영 판단은 빠르게
