@@ -94,7 +94,7 @@ Monithub는 팀의 운영 환경과 보안 요구사항에 맞춰 다양한 도�
 제품 소개, 데모, PoC, 기술 상담, 투자 및 파트너십 문의를 환영합니다.
 
 - Website: [monithub.org](https://monithub.org)
-- General inquiry: [supprtmonithub@gmail.com](mailto:supprtmonithub@gmail.com)
+- General inquiry: [support@monithub.org](mailto:support@monithub.org)
 - Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
 
 ---
@@ -175,5 +175,5 @@ Monithub supports multiple deployment models depending on each team's infrastruc
 For product introductions, demos, PoCs, technical discussions, investment, or partnership inquiries, feel free to contact us.
 
 - Website: [monithub.org](https://monithub.org)
-- General inquiry: [supportmonithub@gmail.com](mailto:supprtmonithub@gmail.com)
+- General inquiry: [support@monithub.org](mailto:support@monithub.org)
 - Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
