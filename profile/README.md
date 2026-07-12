@@ -95,7 +95,7 @@ Monithub는 팀의 운영 환경과 보안 요구사항에 맞춰 다양한 도�
 
 - Website: [monithub.org](https://monithub.org)
 - General inquiry: [support@monithub.org](mailto:support@monithub.org)
-- Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
+- Partnership / investment: [jh@monithub.org](mailto:jh@monithub.org)
 
 ---
 
@@ -176,4 +176,4 @@ For product introductions, demos, PoCs, technical discussions, investment, or pa
 
 - Website: [monithub.org](https://monithub.org)
 - General inquiry: [support@monithub.org](mailto:support@monithub.org)
-- Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
+- Partnership / investment: [jh@monithub.org](mailto:jh@monithub.org)
