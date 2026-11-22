@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://monithub.org">
-    <img src="https://monithub.org/assets/monithub-icon.svg" width="96" alt="Monithub logo" />
+  <a href="https://monithub.io/">
+    <img src="https://monithub.io/assets/monithub-icon.svg" width="96" alt="모닛허브 (Monithub)" />
   </a>
 </p>
 
-<h1 align="center">Monithub</h1>
+<h1 align="center">모닛허브 (Monithub)</h1>
 
 <p align="center">
   LLM, 애플리케이션, 인프라 운영을 위한 AI observability platform<br />
@@ -12,9 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://monithub.org">Website</a>
+  <a href="https://monithub.io/">모닛허브 공식 홈페이지</a>
   ·
-  <a href="https://monithub.org/pricing.html">Pricing</a>
+  <a href="https://monithub.io/pricing">Pricing</a>
+  ·
+  <a href="https://docs.monithub.io/">공식 문서</a>
+  ·
+  <a href="https://playground.monithub.io/">Playground</a>
   ·
   <a href="mailto:supprtmonithub@gmail.com">Contact</a>
 </p>
@@ -109,6 +113,6 @@ Monithub supports multiple deployment models depending on each team's infrastruc
 
 For product introductions, demos, PoCs, technical discussions, investment, or partnership inquiries, feel free to contact us.
 
-- Website: [monithub.org](https://monithub.org)
+- Website: [monithub.io](https://monithub.io/)
 - General inquiry: [supprtmonithub@gmail.com](mailto:supprtmonithub@gmail.com)
 - Partnership / investment: [ryankimjhga@gmail.com](mailto:ryankimjhga@gmail.com)
