@@ -1,19 +1,23 @@
 <p align="center">
-  <a href="https://monithub.org">
-    <img src="https://monithub.org/assets/monithub-icon.svg" width="96" alt="Monithub logo" />
+  <a href="https://monithub.io/">
+    <img src="https://monithub.io/assets/monithub-icon.svg" width="96" alt="모닛허브 (Monithub)" />
   </a>
 </p>
 
-<h1 align="center">Monithub</h1>
+<h1 align="center">모닛허브 (Monithub)</h1>
 
 <p align="center">
   LLM, 애플리케이션, 인프라 운영을 위한 AI observability platform
 </p>
 
 <p align="center">
-  <a href="https://monithub.org">Website</a>
+  <a href="https://monithub.io/">모닛허브 공식 홈페이지</a>
   ·
-  <a href="https://monithub.org/pricing.html">Pricing</a>
+  <a href="https://monithub.io/pricing">Pricing</a>
+  ·
+  <a href="https://docs.monithub.io/">공식 문서</a>
+  ·
+  <a href="https://playground.monithub.io/">Playground</a>
   ·
   <a href="mailto:supportmonithub@gmail.com">Contact</a>
 </p>
@@ -28,7 +32,7 @@ Monithub(모닛허브)는 LLM, 애플리케이션, 인프라의 상태를 통합
 
 | Platform | Gateway / SDK | Sentinel |
 | --- | --- | --- |
-| <img src="https://monithub.org/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.org/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.org/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
+| <img src="https://monithub.io/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.io/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.io/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
 | 시스템, metric, log, trace를 한 화면에서 파악 | AI/API 요청 수, 오류율, 지연 시간, 토큰 사용량 모니터링 | metric 변화와 이상 징후를 빠르게 탐지 |
 
 ### Monithub Platform
@@ -93,7 +97,7 @@ Monithub는 팀의 운영 환경과 보안 요구사항에 맞춰 다양한 도�
 
 제품 소개, 데모, PoC, 기술 상담, 투자 및 파트너십 문의를 환영합니다.
 
-- Website: [monithub.org](https://monithub.org)
+- Website: [monithub.io](https://monithub.io/)
 - General inquiry: [support@monithub.org](mailto:support@monithub.org)
 - Partnership / investment: [jh@monithub.org](mailto:jh@monithub.org)
 
@@ -109,7 +113,7 @@ Operational data is often scattered across multiple systems. When incidents or p
 
 | Platform | Gateway / SDK | Sentinel |
 | --- | --- | --- |
-| <img src="https://monithub.org/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.org/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.org/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
+| <img src="https://monithub.io/assets/Platform-System-monitor.png" alt="Monithub Platform system dashboard" width="280" /> | <img src="https://monithub.io/assets/Gateway-AI-proxy-monitor.png" alt="Monithub Gateway AI proxy monitoring dashboard" width="280" /> | <img src="https://monithub.io/assets/Sentinel-anlmaly-detection.png" alt="Monithub Sentinel anomaly detection" width="280" /> |
 | View system state, metrics, logs, and traces in one place | Monitor AI request volume, error rate, latency, and token usage | Detect metric changes and anomaly signals early |
 
 ### Monithub Platform
@@ -174,6 +178,6 @@ Monithub supports multiple deployment models depending on each team's infrastruc
 
 For product introductions, demos, PoCs, technical discussions, investment, or partnership inquiries, feel free to contact us.
 
-- Website: [monithub.org](https://monithub.org)
+- Website: [monithub.io](https://monithub.io/)
 - General inquiry: [support@monithub.org](mailto:support@monithub.org)
 - Partnership / investment: [jh@monithub.org](mailto:jh@monithub.org)
